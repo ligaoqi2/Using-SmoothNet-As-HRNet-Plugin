@@ -2,13 +2,17 @@
 
 ### 1. SmoothNet Result Example
 
+[Youtube](https://www.youtube.com/embed/tFGMhSnTXCE)
+or directly click the image.
 
-[![Alt text for your video](http://img.youtube.com/vi/tFGMhSnTXCE/0.jpg)](http://www.youtube.com/watch?v=tFGMhSnTXCE)
+[![Watch the video](http://img.youtube.com/vi/tFGMhSnTXCE/0.jpg)](https://www.youtube.com/embed/tFGMhSnTXCE)
 
 ### 2. HRNet Result Example
 
+[Youtube](https://www.youtube.com/embed/Mc77uCCExeQ)
+or directly click the image.
 
-[![Alt text for your video](http://img.youtube.com/vi/Mc77uCCExeQ/0.jpg)](http://www.youtube.com/watch?v=Mc77uCCExeQ)
+[![Watch the video](http://img.youtube.com/vi/Mc77uCCExeQ/0.jpg)](https://www.youtube.com/embed/Mc77uCCExeQ)
 
 ## Introduction
 This is a repo using SmoothNet as a HRNet Plugin to generate smooth pose trajectory from a single person motion video.
@@ -89,7 +93,7 @@ The code is developed using python 3.9 on Ubuntu 18.04 and using an NVIDIA GeFor
 
 ### Run the Demo
 
-1. Configure the python script to run and the runtime parameters in [Pycharm](https://www.jetbrains.com/pycharm/)
+1. Configure the python run script and the runtime parameters in [Pycharm](https://www.jetbrains.com/pycharm/)
 
 
 <img src="figure/Configure.png">
