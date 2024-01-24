@@ -2,15 +2,13 @@
 
 ### 1. SmoothNet Result Example
 
-<video id="video1" controls="" preload="none" poster="封面" height="150">
-      <source id="mp4" src="https://youtu.be/tFGMhSnTXCE" type="video/mp4">
-</video>
+
+[![Alt text for your video](http://img.youtube.com/vi/tFGMhSnTXCE/0.jpg)](http://www.youtube.com/watch?v=tFGMhSnTXCE)
 
 ### 2. HRNet Result Example
 
-<video id="video2" controls="" preload="none" poster="封面" height="150">
-      <source id="mp4" src="https://youtu.be/Mc77uCCExeQ" type="video/mp4">
-</video>
+
+[![Alt text for your video](http://img.youtube.com/vi/Mc77uCCExeQ/0.jpg)](http://www.youtube.com/watch?v=Mc77uCCExeQ)
 
 ## Introduction
 This is a repo using SmoothNet as a HRNet Plugin to generate smooth pose trajectory from a single person motion video.
