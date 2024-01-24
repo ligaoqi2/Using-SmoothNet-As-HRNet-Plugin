@@ -3,13 +3,13 @@
 ### 1. SmoothNet Result Example
 
 <video id="video1" controls="" preload="none" poster="封面" height="150">
-      <source id="mp4" src="https://github.com/ligaoqi2/Using-SmoothNet-As-HRNet-Plugin/assets/56901453/12ac771f-1b46-4e53-af34-dc445336fb8a" type="video/mp4">
+      <source id="mp4" src="https://youtu.be/tFGMhSnTXCE" type="video/mp4">
 </video>
 
 ### 2. HRNet Result Example
 
 <video id="video2" controls="" preload="none" poster="封面" height="150">
-      <source id="mp4" src="https://github.com/ligaoqi2/Using-SmoothNet-As-HRNet-Plugin/assets/56901453/4ef25179-7a37-4364-9a2e-4042de09ad4c" type="video/mp4">
+      <source id="mp4" src="https://youtu.be/Mc77uCCExeQ" type="video/mp4">
 </video>
 
 ## Introduction
